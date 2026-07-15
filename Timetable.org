@@ -1,0 +1,127 @@
+#+TITLE: BBioSc Timetable
+#+AUTHOR: Cooper Oscarfono
+#+EMAIL: cooper@oscarfono.com
+* Online Timetable
+#+NAME: Online Timetable
+#+TBLNAME: Online Timetable
+#+CAPTION: Work from home
+| Week | Date       | Day       |  Time | Paper           | Activity  | Duration (hrs) | Tutor     | Location     | Campus | Link | Notes |
+|------+------------+-----------+-------+-----------------+-----------+----------------+-----------+--------------+--------+------+-------|
+|    1 | 20/07/2026 | Monday    | 12:30 | SCCHM1002_2_ODL | Lecture 1 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    1 | 20/07/2026 | Monday    | 13:30 | SCCOR1300_2_ODL | Lecture 1 |              1 | R Geyling | ODL_ONLINE29 | Online |      |       |
+|    1 | 20/07/2026 | Monday    | 15:30 | SCBIO1020_2_ODL | Lecture 1 |              2 | A Olsen   | ODL_ONLINE10 | Online |      |       |
+|    1 | 21/07/2026 | Tuesday   | 10:30 | SCCHM1002_2_ODL | Tutorial  |              1 | D Smith   | ODL_ONLINE27 | Online |      |       |
+|    1 | 21/07/2026 | Tuesday   | 12:30 | SCCHM1002_2_ODL | Lecture 2 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    1 | 21/07/2026 | Tuesday   | 13:30 | SCCOR1300_2_ODL | Lecture 2 |              1 | R Geyling | ODL_ONLINE29 | Online |      |       |
+|    1 | 21/07/2026 | Tuesday   | 15:00 | SCBIO1020_2_ODL | Tutorial  |              2 | Hderseh   | ODL_ONLINE27 | Online |      |       |
+|    1 | 22/07/2026 | Wednesday | 12:30 | SCCHM1002_2_ODL | Lecture 3 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    1 | 22/07/2026 | Wednesday | 14:30 | SCCOR1300_2_ODL | Tutorial  |              2 | R Geyling | ODL_ONLINE13 | Online |      |       |
+|    2 | 27/07/2026 | Monday    | 12:30 | SCCHM1002_2_ODL | Lecture 1 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    2 | 27/07/2026 | Monday    | 13:30 | SCCOR1300_2_ODL | Lecture 1 |              1 | R Geyling | ODL_ONLINE29 | Online |      |       |
+|    2 | 27/07/2026 | Monday    | 15:30 | SCBIO1020_2_ODL | Lecture 1 |              2 | A Olsen   | ODL_ONLINE10 | Online |      |       |
+|    2 | 28/07/2026 | Tuesday   | 10:30 | SCCHM1002_2_ODL | Tutorial  |              1 | D Smith   | ODL_ONLINE27 | Online |      |       |
+|    2 | 28/07/2026 | Tuesday   | 12:30 | SCCHM1002_2_ODL | Lecture 2 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    2 | 28/07/2026 | Tuesday   | 13:30 | SCCOR1300_2_ODL | Lecture 2 |              1 | R Geyling | ODL_ONLINE29 | Online |      |       |
+|    2 | 28/07/2026 | Tuesday   | 15:00 | SCBIO1020_2_ODL | Tutorial  |              2 | Hderseh   | ODL_ONLINE27 | Online |      |       |
+|    2 | 29/07/2026 | Wednesday | 12:30 | SCCHM1002_2_ODL | Lecture 3 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    2 | 29/07/2026 | Wednesday | 14:30 | SCCOR1300_2_ODL | Tutorial  |              2 | R Geyling | ODL_ONLINE13 | Online |      |       |
+|    3 | 03/08/2026 | Monday    | 12:30 | SCCHM1002_2_ODL | Lecture 1 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    3 | 03/08/2026 | Monday    | 13:30 | SCCOR1300_2_ODL | Lecture 1 |              1 | R Geyling | ODL_ONLINE29 | Online |      |       |
+|    3 | 03/08/2026 | Monday    | 15:30 | SCBIO1020_2_ODL | Lecture 1 |              2 | A Olsen   | ODL_ONLINE10 | Online |      |       |
+|    3 | 04/08/2026 | Tuesday   | 10:30 | SCCHM1002_2_ODL | Tutorial  |              1 | D Smith   | ODL_ONLINE27 | Online |      |       |
+|    3 | 04/08/2026 | Tuesday   | 12:30 | SCCHM1002_2_ODL | Lecture 2 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    3 | 04/08/2026 | Tuesday   | 13:30 | SCCOR1300_2_ODL | Lecture 2 |              1 | R Geyling | ODL_ONLINE29 | Online |      |       |
+|    3 | 04/08/2026 | Tuesday   | 15:00 | SCBIO1020_2_ODL | Tutorial  |              2 | Hderseh   | ODL_ONLINE27 | Online |      |       |
+|    3 | 05/08/2026 | Wednesday | 12:30 | SCCHM1002_2_ODL | Lecture 3 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    3 | 05/08/2026 | Wednesday | 14:30 | SCCOR1300_2_ODL | Tutorial  |              2 | R Geyling | ODL_ONLINE13 | Online |      |       |
+|    4 | 10/08/2026 | Monday    | 12:30 | SCCHM1002_2_ODL | Lecture 1 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    4 | 10/08/2026 | Monday    | 13:30 | SCCOR1300_2_ODL | Lecture 1 |              1 | R Geyling | ODL_ONLINE29 | Online |      |       |
+|    4 | 10/08/2026 | Monday    | 15:30 | SCBIO1020_2_ODL | Lecture 1 |              2 | A Olsen   | ODL_ONLINE10 | Online |      |       |
+|    4 | 11/08/2026 | Tuesday   | 10:30 | SCCHM1002_2_ODL | Tutorial  |              1 | D Smith   | ODL_ONLINE27 | Online |      |       |
+|    4 | 11/08/2026 | Tuesday   | 12:30 | SCCHM1002_2_ODL | Lecture 2 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    4 | 11/08/2026 | Tuesday   | 13:30 | SCCOR1300_2_ODL | Lecture 2 |              1 | R Geyling | ODL_ONLINE29 | Online |      |       |
+|    4 | 11/08/2026 | Tuesday   | 15:00 | SCBIO1020_2_ODL | Tutorial  |              2 | Hderseh   | ODL_ONLINE27 | Online |      |       |
+|    4 | 12/08/2026 | Wednesday | 12:30 | SCCHM1002_2_ODL | Lecture 3 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    4 | 12/08/2026 | Wednesday | 14:30 | SCCOR1300_2_ODL | Tutorial  |              2 | R Geyling | ODL_ONLINE13 | Online |      |       |
+|    5 | 17/08/2026 | Monday    | 12:30 | SCCHM1002_2_ODL | Lecture 1 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    5 | 17/08/2026 | Monday    | 13:30 | SCCOR1300_2_ODL | Lecture 1 |              1 | R Geyling | ODL_ONLINE29 | Online |      |       |
+|    5 | 17/08/2026 | Monday    | 15:30 | SCBIO1020_2_ODL | Lecture 1 |              2 | A Olsen   | ODL_ONLINE10 | Online |      |       |
+|    5 | 18/08/2026 | Tuesday   | 10:30 | SCCHM1002_2_ODL | Tutorial  |              1 | D Smith   | ODL_ONLINE27 | Online |      |       |
+|    5 | 18/08/2026 | Tuesday   | 12:30 | SCCHM1002_2_ODL | Lecture 2 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    5 | 18/08/2026 | Tuesday   | 13:30 | SCCOR1300_2_ODL | Lecture 2 |              1 | R Geyling | ODL_ONLINE29 | Online |      |       |
+|    5 | 18/08/2026 | Tuesday   | 15:00 | SCBIO1020_2_ODL | Tutorial  |              2 | Hderseh   | ODL_ONLINE27 | Online |      |       |
+|    5 | 19/08/2026 | Wednesday | 12:30 | SCCHM1002_2_ODL | Lecture 3 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    5 | 19/08/2026 | Wednesday | 14:30 | SCCOR1300_2_ODL | Tutorial  |              2 | R Geyling | ODL_ONLINE13 | Online |      |       |
+|    6 | 24/08/2026 | Monday    | 12:30 | SCCHM1002_2_ODL | Lecture 1 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    6 | 24/08/2026 | Monday    | 13:30 | SCCOR1300_2_ODL | Lecture 1 |              1 | R Geyling | ODL_ONLINE29 | Online |      |       |
+|    6 | 24/08/2026 | Monday    | 15:30 | SCBIO1020_2_ODL | Lecture 1 |              2 | A Olsen   | ODL_ONLINE10 | Online |      |       |
+|    6 | 25/08/2026 | Tuesday   | 10:30 | SCCHM1002_2_ODL | Tutorial  |              1 | D Smith   | ODL_ONLINE27 | Online |      |       |
+|    6 | 25/08/2026 | Tuesday   | 12:30 | SCCHM1002_2_ODL | Lecture 2 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    6 | 25/08/2026 | Tuesday   | 13:30 | SCCOR1300_2_ODL | Lecture 2 |              1 | R Geyling | ODL_ONLINE29 | Online |      |       |
+|    6 | 25/08/2026 | Tuesday   | 15:00 | SCBIO1020_2_ODL | Tutorial  |              2 | Hderseh   | ODL_ONLINE27 | Online |      |       |
+|    6 | 26/08/2026 | Wednesday | 12:30 | SCCHM1002_2_ODL | Lecture 3 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    6 | 26/08/2026 | Wednesday | 14:30 | SCCOR1300_2_ODL | Tutorial  |              2 | R Geyling | ODL_ONLINE13 | Online |      |       |
+|    7 | 07/09/2026 | Monday    | 12:30 | SCCHM1002_2_ODL | Lecture 1 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    7 | 07/09/2026 | Monday    | 13:30 | SCCOR1300_2_ODL | Lecture 1 |              1 | R Geyling | ODL_ONLINE29 | Online |      |       |
+|    7 | 07/09/2026 | Monday    | 15:30 | SCBIO1020_2_ODL | Lecture 1 |              2 | A Olsen   | ODL_ONLINE10 | Online |      |       |
+|    7 | 08/09/2026 | Tuesday   | 10:30 | SCCHM1002_2_ODL | Tutorial  |              1 | D Smith   | ODL_ONLINE27 | Online |      |       |
+|    7 | 08/09/2026 | Tuesday   | 12:30 | SCCHM1002_2_ODL | Lecture 2 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    7 | 08/09/2026 | Tuesday   | 13:30 | SCCOR1300_2_ODL | Lecture 2 |              1 | R Geyling | ODL_ONLINE29 | Online |      |       |
+|    7 | 08/09/2026 | Tuesday   | 15:00 | SCBIO1020_2_ODL | Tutorial  |              2 | Hderseh   | ODL_ONLINE27 | Online |      |       |
+|    7 | 09/09/2026 | Wednesday | 12:30 | SCCHM1002_2_ODL | Lecture 3 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    7 | 09/09/2026 | Wednesday | 14:30 | SCCOR1300_2_ODL | Tutorial  |              2 | R Geyling | ODL_ONLINE13 | Online |      |       |
+|    8 | 14/09/2026 | Monday    | 12:30 | SCCHM1002_2_ODL | Lecture 1 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    8 | 14/09/2026 | Monday    | 13:30 | SCCOR1300_2_ODL | Lecture 1 |              1 | R Geyling | ODL_ONLINE29 | Online |      |       |
+|    8 | 14/09/2026 | Monday    | 15:30 | SCBIO1020_2_ODL | Lecture 1 |              2 | A Olsen   | ODL_ONLINE10 | Online |      |       |
+|    8 | 15/09/2026 | Tuesday   | 10:30 | SCCHM1002_2_ODL | Tutorial  |              1 | D Smith   | ODL_ONLINE27 | Online |      |       |
+|    8 | 15/09/2026 | Tuesday   | 12:30 | SCCHM1002_2_ODL | Lecture 2 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    8 | 15/09/2026 | Tuesday   | 13:30 | SCCOR1300_2_ODL | Lecture 2 |              1 | R Geyling | ODL_ONLINE29 | Online |      |       |
+|    8 | 15/09/2026 | Tuesday   | 15:00 | SCBIO1020_2_ODL | Tutorial  |              2 | Hderseh   | ODL_ONLINE27 | Online |      |       |
+|    8 | 16/09/2026 | Wednesday | 12:30 | SCCHM1002_2_ODL | Lecture 3 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    8 | 16/09/2026 | Wednesday | 14:30 | SCCOR1300_2_ODL | Tutorial  |              2 | R Geyling | ODL_ONLINE13 | Online |      |       |
+|    9 | 21/09/2026 | Monday    | 12:30 | SCCHM1002_2_ODL | Lecture 1 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    9 | 21/09/2026 | Monday    | 13:30 | SCCOR1300_2_ODL | Lecture 1 |              1 | R Geyling | ODL_ONLINE29 | Online |      |       |
+|    9 | 21/09/2026 | Monday    | 15:30 | SCBIO1020_2_ODL | Lecture 1 |              2 | A Olsen   | ODL_ONLINE10 | Online |      |       |
+|    9 | 22/09/2026 | Tuesday   | 10:30 | SCCHM1002_2_ODL | Tutorial  |              1 | D Smith   | ODL_ONLINE27 | Online |      |       |
+|    9 | 22/09/2026 | Tuesday   | 12:30 | SCCHM1002_2_ODL | Lecture 2 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    9 | 22/09/2026 | Tuesday   | 13:30 | SCCOR1300_2_ODL | Lecture 2 |              1 | R Geyling | ODL_ONLINE29 | Online |      |       |
+|    9 | 22/09/2026 | Tuesday   | 15:00 | SCBIO1020_2_ODL | Tutorial  |              2 | Hderseh   | ODL_ONLINE27 | Online |      |       |
+|    9 | 23/09/2026 | Wednesday | 12:30 | SCCHM1002_2_ODL | Lecture 3 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|    9 | 23/09/2026 | Wednesday | 14:30 | SCCOR1300_2_ODL | Tutorial  |              2 | R Geyling | ODL_ONLINE13 | Online |      |       |
+|   10 | 28/09/2026 | Monday    | 12:30 | SCCHM1002_2_ODL | Lecture 1 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|   10 | 28/09/2026 | Monday    | 13:30 | SCCOR1300_2_ODL | Lecture 1 |              1 | R Geyling | ODL_ONLINE29 | Online |      |       |
+|   10 | 28/09/2026 | Monday    | 15:30 | SCBIO1020_2_ODL | Lecture 1 |              2 | A Olsen   | ODL_ONLINE10 | Online |      |       |
+|   10 | 29/09/2026 | Tuesday   | 10:30 | SCCHM1002_2_ODL | Tutorial  |              1 | D Smith   | ODL_ONLINE27 | Online |      |       |
+|   10 | 29/09/2026 | Tuesday   | 12:30 | SCCHM1002_2_ODL | Lecture 2 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|   10 | 29/09/2026 | Tuesday   | 13:30 | SCCOR1300_2_ODL | Lecture 2 |              1 | R Geyling | ODL_ONLINE29 | Online |      |       |
+|   10 | 29/09/2026 | Tuesday   | 15:00 | SCBIO1020_2_ODL | Tutorial  |              2 | Hderseh   | ODL_ONLINE27 | Online |      |       |
+|   10 | 30/09/2026 | Wednesday | 12:30 | SCCHM1002_2_ODL | Lecture 3 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|   10 | 30/09/2026 | Wednesday | 14:30 | SCCOR1300_2_ODL | Tutorial  |              2 | R Geyling | ODL_ONLINE13 | Online |      |       |
+|   11 | 05/10/2026 | Monday    | 12:30 | SCCHM1002_2_ODL | Lecture 1 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|   11 | 05/10/2026 | Monday    | 13:30 | SCCOR1300_2_ODL | Lecture 1 |              1 | R Geyling | ODL_ONLINE29 | Online |      |       |
+|   11 | 05/10/2026 | Monday    | 15:30 | SCBIO1020_2_ODL | Lecture 1 |              2 | A Olsen   | ODL_ONLINE10 | Online |      |       |
+|   11 | 06/10/2026 | Tuesday   | 10:30 | SCCHM1002_2_ODL | Tutorial  |              1 | D Smith   | ODL_ONLINE27 | Online |      |       |
+|   11 | 06/10/2026 | Tuesday   | 12:30 | SCCHM1002_2_ODL | Lecture 2 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|   11 | 06/10/2026 | Tuesday   | 13:30 | SCCOR1300_2_ODL | Lecture 2 |              1 | R Geyling | ODL_ONLINE29 | Online |      |       |
+|   11 | 06/10/2026 | Tuesday   | 15:00 | SCBIO1020_2_ODL | Tutorial  |              2 | Hderseh   | ODL_ONLINE27 | Online |      |       |
+|   11 | 07/10/2026 | Wednesday | 12:30 | SCCHM1002_2_ODL | Lecture 3 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|   11 | 07/10/2026 | Wednesday | 14:30 | SCCOR1300_2_ODL | Tutorial  |              2 | R Geyling | ODL_ONLINE13 | Online |      |       |
+|   12 | 12/10/2026 | Monday    | 12:30 | SCCHM1002_2_ODL | Lecture 1 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|   12 | 12/10/2026 | Monday    | 13:30 | SCCOR1300_2_ODL | Lecture 1 |              1 | R Geyling | ODL_ONLINE29 | Online |      |       |
+|   12 | 12/10/2026 | Monday    | 15:30 | SCBIO1020_2_ODL | Lecture 1 |              2 | A Olsen   | ODL_ONLINE10 | Online |      |       |
+|   12 | 13/10/2026 | Tuesday   | 10:30 | SCCHM1002_2_ODL | Tutorial  |              1 | D Smith   | ODL_ONLINE27 | Online |      |       |
+|   12 | 13/10/2026 | Tuesday   | 12:30 | SCCHM1002_2_ODL | Lecture 2 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|   12 | 13/10/2026 | Tuesday   | 13:30 | SCCOR1300_2_ODL | Lecture 2 |              1 | R Geyling | ODL_ONLINE29 | Online |      |       |
+|   12 | 13/10/2026 | Tuesday   | 15:00 | SCBIO1020_2_ODL | Tutorial  |              2 | Hderseh   | ODL_ONLINE27 | Online |      |       |
+|   12 | 14/10/2026 | Wednesday | 12:30 | SCCHM1002_2_ODL | Lecture 3 |              1 | AM Green  | ODL_ONLINE13 | Online |      |       |
+|   12 | 14/10/2026 | Wednesday | 14:30 | SCCOR1300_2_ODL | Tutorial  |              2 | R Geyling | ODL_ONLINE13 | Online |      |       |
+* Onsite Timetable
+#+NAME: Onsite Timetable
+#+TBLNAME: Onsite Timetable
+#+CAPTION: Attend in person
+| Week | Date       | Day       |  Time | Paper           | Activity    | Duration (hrs) | Tutor    | Location                | Campus  | Link | Notes |
+|------+------------+-----------+-------+-----------------+-------------+----------------+----------+-------------------------+---------+------+-------|
+|    7 | 01/09/2026 | Tuesday   | 13:00 | SCCHM1002_2_ODL | Practicum 1 |              4 | H Derseh | BER_903_G100_Laboratory | Berwick |      |       |
+|    7 | 02/09/2026 | Wednesday | 09:00 | SCCHM1002_2_ODL | Practicum 2 |              8 | H Derseh | BER_903_G100_Laboratory | Berwick |      |       |
+|   13 | 27/10/2026 | Tuesday   | 13:00 | SCCHM1002_2_ODL | Practicum 1 |              4 | H Derseh | BER_903_G100_Laboratory | Berwick |      |       |
+|   13 | 28/10/2026 | Wednesday | 09:00 | SCCHM1002_2_ODL | Practicum 2 |              8 | H Derseh | BER_903_G100_Laboratory | Berwick |      |       |
